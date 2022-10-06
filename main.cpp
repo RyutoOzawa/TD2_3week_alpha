@@ -6,6 +6,8 @@
 #include "AxisIndicator.h"
 #include "PrimitiveDrawer.h"
 
+// この文章は確認用です。ブランチを新たに作る場合はこの文章を削除してください。
+
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	WinApp* win = nullptr;
